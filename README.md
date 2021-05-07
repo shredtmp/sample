@@ -1,2 +1,2 @@
 # sample
-sample repository
+sample repository edited 
